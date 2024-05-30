@@ -1,2 +1,2 @@
-remote
+local
 ON CONTINUE D4APPRENDRE GIT
